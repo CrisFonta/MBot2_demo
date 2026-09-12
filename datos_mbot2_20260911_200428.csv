@@ -1,0 +1,5 @@
+tiempo_s,distancia_cm,velocidad,bateria,luz,sonido,accion
+0.61,300.0,50,80,43,11,parar
+1.19,300.0,50,80,44,10,parar
+2.03,300.0,50,80,42,14,parar
+2.75,300.0,50,80,40,14,parar
