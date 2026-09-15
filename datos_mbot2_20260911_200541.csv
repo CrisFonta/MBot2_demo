@@ -1,9 +1,0 @@
-tiempo_s,distancia_cm,velocidad,bateria,luz,sonido,accion
-0.58,109.4,50,80,43,7,parar
-1.21,109.4,50,80,43,62,izquierda
-1.88,124.1,50,80,48,23,parar
-2.53,300.0,50,80,47,86,adelante
-3.22,69.4,50,80,45,76,adelante
-3.88,300.0,50,80,39,81,adelante
-4.57,300.0,50,80,37,30,parar
-5.2,36.3,50,80,37,28,parar
