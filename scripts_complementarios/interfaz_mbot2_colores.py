@@ -224,7 +224,7 @@ def bucle_control():
                         offset = marcador
                         if marcador == "red":
                             bot.drive(0, -0) 
-                            time.sleep(1)
+                            time.sleep(5)
                             bot.drive(BASE_PISTA, -BASE_PISTA) 
                             time.sleep(0.6)
                             # bot.stop()
